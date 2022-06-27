@@ -10,3 +10,5 @@
 1- Non-decreasing Array - https://leetcode.com/problems/non-decreasing-array/
 
 2- Maximum Points You Can Obtain from Cards - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+
+3- Partitioning Into Minimum Number Of Deci-Binary Numbers - https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
