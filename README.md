@@ -19,3 +19,5 @@
 5- Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts - https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/submissions/
 
 6- Wiggle Subsequence - https://leetcode.com/problems/wiggle-subsequence/
+
+7-  Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
