@@ -21,3 +21,5 @@
 6- Wiggle Subsequence - https://leetcode.com/problems/wiggle-subsequence/
 
 7-  Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
+
+8- Matchsticks to Square - https://leetcode.com/problems/matchsticks-to-square/
