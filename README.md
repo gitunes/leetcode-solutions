@@ -23,3 +23,5 @@
 7-  Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
 
 8- Matchsticks to Square - https://leetcode.com/problems/matchsticks-to-square/
+
+9- Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
