@@ -25,3 +25,5 @@
 8- Matchsticks to Square - https://leetcode.com/problems/matchsticks-to-square/
 
 9- Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+10- Partition List - https://leetcode.com/problems/partition-list/
