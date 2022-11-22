@@ -33,3 +33,5 @@
 12- Lowest Common Ancestor of a Binary Tree - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 13- Unique Paths - https://leetcode.com/problems/unique-paths/
+
+14- Perfect Squares - https://leetcode.com/problems/perfect-squares/
